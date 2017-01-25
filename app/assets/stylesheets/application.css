@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ 
+.blog-header {
+    font-family: 'Varela Round', sans-serif;;
+}
